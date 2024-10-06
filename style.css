@@ -1,0 +1,18 @@
+table{
+    border-collapse: collapse;
+    width: 1000px;
+    height: 70%;
+    text-align: center;
+    background-color: rgb(235, 6, 185);}
+     
+    .a{
+background-color: rgb(12, 250, 4);
+color: rgba(236, 240, 8, 0.801);
+font-size: 25px;
+}
+
+.b{
+background-color: rgb(16, 109, 109);
+color: chartreuse;
+font-size: 18px;
+}
